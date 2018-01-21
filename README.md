@@ -1,2 +1,3 @@
-# Hello-world
-first of
+# guessing game
+# first project ever 
+# any feedback would be nice
